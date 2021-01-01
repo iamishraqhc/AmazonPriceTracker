@@ -1,6 +1,7 @@
 INFORMATION ABOUT THE TOOL:
 
 This is a simple Amazon Price checker tool. When you run the code, a GUI pops up for input entry.
+This tool works for GMAIL sender accounts only.
 
 The input fields consists of:
 1. URL (The link of the product from Amazon)
@@ -14,5 +15,6 @@ Once all these fields are filled out, press the Input Button and then an email w
 
 BASIC INSTALLATION:
 
-1. Run the requirements.txt file with the command "pip3 install requirements.txt"
-2. Then execute the main.py file with the command "python main.py"
+1. Allow less secure apps for the gmail account you will be using to send emails. Go to this link https://myaccount.google.com/lesssecureapps
+2. Run the requirements.txt file with the command "pip3 install requirements.txt"
+3. Then execute the main.py file with the command "python main.py"
